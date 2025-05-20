@@ -1,0 +1,7 @@
+{
+  "num_tests": 100,
+  "initial_investment": 10000,
+  "risk_tolerance": "MEDIUM",
+  "start": "2020-01-01",
+  "end": "2021-01-01"
+}

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+yfinance
+gym
+stable-baselines3[extra]
+scikit-learn
+numpy
+aiohttp
+pydantic
+sqlalchemy
+psycopg2-binary
